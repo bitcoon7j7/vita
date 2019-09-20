@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am bitcoon7j7 on github.
+  * I am bitcoin7j7 (https://keybase.io/bitcoin7j7) on keybase.
+  * I have a public key ASBUu5rm6bLf5Aasimm3Fal0y2fRbUW-uAHcRmwDgVP5bwo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012054bb9ae6e9b2dfe406ac8a69b715a974cb67d16d45beb801dc466c038153f96f0a",
+      "host": "keybase.io",
+      "kid": "012054bb9ae6e9b2dfe406ac8a69b715a974cb67d16d45beb801dc466c038153f96f0a",
+      "uid": "aeb65b22f9fe82c9824e336951f59a19",
+      "username": "bitcoin7j7"
+    },
+    "merkle_root": {
+      "ctime": 1568996946,
+      "hash": "27e681565dd68d6ed417b2d3599a5ef19126be24d6222862f2f6196b8c5bf333258ffad6adb28f7fc40dbca8afe5127248cc699de98569b2d41ba4090fe855a9",
+      "hash_meta": "953e75f9d1acbe99803f0a33cdc70df880583e66568e64547514ccae67feb8a4",
+      "seqno": 7643835
+    },
+    "service": {
+      "entropy": "xcLgOyUylWRJfRYurgdvnM8v",
+      "name": "github",
+      "username": "bitcoon7j7"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.5.0"
+  },
+  "ctime": 1568996994,
+  "expire_in": 504576000,
+  "prev": "14b5c6d5362ddaeddd71966df5192f67e1c34dc1ca1b417c144d35633751b04f",
+  "seqno": 4,
+  "tag": "signature"
+}
+```
+
+with the key [ASBUu5rm6bLf5Aasimm3Fal0y2fRbUW-uAHcRmwDgVP5bwo](https://keybase.io/bitcoin7j7), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgVLua5umy3+QGrIpptxWpdMtn0W1FvrgB3EZsA4FT+W8Kp3BheWxvYWTESpcCBMQgFLXG1TYt2u3dcZZt9RkvZ+HDTcHKG0F8FE01YzdRsE/EIPjOOVSJmI2iYJDv6H8pNEMaSvws1vWNFMwfinrMmck5AgHCo3NpZ8RASPkQZk5nryA7k1x6P1eGAlMABadJm9XIUOThzsYcBBxMAqDnW157mwI3kYCqDD+viDujTnlCsgXlwR1mFrNaDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPX73WB2CYfvYJvFKwgvZdKOU93PMfxABfgSKRLsFFn7o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/bitcoin7j7
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id bitcoin7j7
+```
